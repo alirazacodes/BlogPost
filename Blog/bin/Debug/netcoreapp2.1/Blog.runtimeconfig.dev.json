@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\alira\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\alira\\.nuget\\packages"
+    ]
+  }
+}
